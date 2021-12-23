@@ -25,4 +25,7 @@ streamlit run promptsource/promptsource/app.py
 
 ### New Added datasets 
 
-* [germanquad](https://huggingface.co/datasets/deepset/germanquad): I copied the `squad` template and translated it to german.
+The new added german dataset templates are currently only available in my fork. I play to upstream as soon as possible. 
+Fork: https://github.com/philschmid/promptsource 
+
+* [germanquad](https://huggingface.co/datasets/deepset/germanquad): I copied the `squad` template and translated it to german. [TEMPLATE](https://github.com/philschmid/promptsource/blob/main/promptsource/templates/germanquad/templates.yaml)
